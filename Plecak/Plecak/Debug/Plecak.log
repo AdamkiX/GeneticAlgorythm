@@ -1,0 +1,8 @@
+﻿  Plecak.cpp
+C:\Users\adamk\Desktop\STUDIA\ROK I\SEM I\PPK\Projekt\Projekt\Plecak\Plecak\Plecak.cpp(43,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\adamk\Desktop\STUDIA\ROK I\SEM I\PPK\Projekt\Projekt\Plecak\Plecak\Plecak.cpp(48,26): warning C4244: "=": konwersja z "_Ty" do "float", możliwa utrata danych
+          with
+          [
+              _Ty=double
+          ]
+  Plecak.vcxproj -> C:\Users\adamk\Desktop\STUDIA\ROK I\SEM I\PPK\Projekt\Projekt\Plecak\Debug\Plecak.exe
